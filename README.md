@@ -33,6 +33,7 @@ The install guide is base on Ubuntu 18.04 LTS version
    wget http://download.savannah.gnu.org/releases/quagga/quagga-1.2.4.tar.gz
    tar -xzvf ./quagga-1.2.4.tar.gz
    cd ./quagga-1.2.4
+   sudo apt install pkg-config
    ./configure --enable-vtysh --enable-user=root --enable-group=root --enable-vty-group=root
    make install
    ```
