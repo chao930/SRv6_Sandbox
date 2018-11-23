@@ -8,7 +8,7 @@ from ipmininet.router.config.base import RouterConfig
 from ipmininet.router.config.zebra import StaticRoute, Zebra
 
 """
-
+cisco
   a ---- r1  ---- r2 ---- r3  ----  c
           |        +      |
           ------- r4 ------
