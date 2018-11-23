@@ -77,5 +77,3 @@ Run "xterm <Hostname>" to go to the destinated host shell
 
 For example, xterm R1 will give you access to R1 shell.
 
-
-###
